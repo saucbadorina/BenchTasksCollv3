@@ -1,0 +1,1 @@
+Translate text between languages.

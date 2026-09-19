@@ -1,0 +1,1 @@
+Manage discount coupons and promotions.

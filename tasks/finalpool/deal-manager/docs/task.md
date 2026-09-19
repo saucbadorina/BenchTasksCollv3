@@ -1,0 +1,1 @@
+Manage deals in the CRM system.

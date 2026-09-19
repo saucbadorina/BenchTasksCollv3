@@ -1,0 +1,1 @@
+Manage product listings and inventory.
